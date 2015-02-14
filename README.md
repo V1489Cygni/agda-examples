@@ -1,2 +1,2 @@
 # agda-examples
-Examples of interesting Agda programms.
+Examples of interesting Agda programs.
